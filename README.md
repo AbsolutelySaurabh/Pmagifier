@@ -56,7 +56,7 @@ If you'd like to request a new functionality, feel free to do so by opening an i
 
 ```bash
 
-Copyright 2017 Appsomniac.
+Copyright 2018 Appsomniac.
 
 Licensed to the Apache Software Foundation (ASF) under one or more contributor
 license agreements. See the NOTICE file distributed with this work for
@@ -73,6 +73,7 @@ WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
 License for the specific language governing permissions and limitations under
 the License.  
   ```
+  <p>Libraries used: </p>
   [android-morphing-button](https://github.com/dmytrodanylyk/android-morphing-button)<br/>
   [tedpicker](https://github.com/ParkSangGwon/TedPicker)<br/>
   [jake-wharton-butterknife](https://github.com/JakeWharton/butterknife)<br/>
