@@ -4,7 +4,7 @@
 </h1>
 <h3 align="center">Android app to convert camera/image to PDF file.</h3>
 <h4 align="center"> <i>Useful on day to day basis!</i></h4>
-<h6 align="center"><img src="https://github.com/AbsolutelySaurabh/Pmagifier/blob/master/icon.png" width="200"></a></h6>
+<h6 align="center"><img src="https://github.com/AbsolutelySaurabh/Pmagifier/blob/master/icon.jpg" width="200"></a></h6>
 <p align="center">
   <a href="https://www.youtube.com/watch?v=DD6MVW7FV8Y">
     . Demo .
@@ -73,9 +73,9 @@ WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
 License for the specific language governing permissions and limitations under
 the License.  
   ```
-  [android-morphing-button](https://github.com/dmytrodanylyk/android-morphing-button)
-  [tedpicker](https://github.com/ParkSangGwon/TedPicker)
-  [jake-wharton-butterknife](https://github.com/JakeWharton/butterknife)
+  [android-morphing-button](https://github.com/dmytrodanylyk/android-morphing-button)<br/>
+  [tedpicker](https://github.com/ParkSangGwon/TedPicker)<br/>
+  [jake-wharton-butterknife](https://github.com/JakeWharton/butterknife)<br/>
 
 ---
 
