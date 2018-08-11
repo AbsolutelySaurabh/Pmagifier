@@ -4,7 +4,7 @@
 </h1>
 <h3 align="center">Android app to convert camera/image to PDF file.</h3>
 <h4 align="center"> <i>Useful on day to day basis!</i></h4>
-<h6 align="center"><img src="https://github.com/AbsolutelySaurabh/Pmagifier/blob/master/icon.jpg" width="200"></a></h6>
+<h6 align="center"><img src="https://github.com/AbsolutelySaurabh/Pmagifier/blob/master/screenshots/icon.jpg" width="200"></a></h6>
 <p align="center">
   <a href="https://www.youtube.com/watch?v=DD6MVW7FV8Y">
     . Demo .
