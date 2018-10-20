@@ -1,6 +1,9 @@
 <h1 align="center">
     Pmagifier
   <br>
+  
+  [![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://forthebadge.com)
+  
 </h1>
 <h3 align="center">Android app to convert camera/image to PDF file.</h3>
 <h4 align="center"> <i>Useful on day to day basis!</i></h4>
@@ -12,14 +15,7 @@
   <a href="https://play.google.com/store/apps/details?id=dexter.appsomniac.newshour&hl=en">
     . Download .
   </a>
-    
-      
 </p>
-<h1 align="center">  
-  [![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com) 
-  [![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://forthebadge.com)
-</h1>
-<br>
 
 ## About Pmagifier
 
