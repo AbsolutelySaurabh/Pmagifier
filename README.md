@@ -13,9 +13,13 @@
     . Download .
   </a>
     
-  [![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com) [![forthebadge]       (https://forthebadge.com/images/badges/built-for-android.svg)](https://forthebadge.com)
       
 </p>
+<br>
+<h1 align="center">  
+  [![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://forthebadge.com)
+  
+</h1>
 <br>
 
 ## About Pmagifier
